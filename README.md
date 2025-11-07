@@ -8,11 +8,7 @@ The primary goal is to empower managers to identify top-performing regions, cust
 
 ## 🖼️ Dashboard Screenshots
 
-### Page 1: Executive Sales Summary
-![Superstore Main Dashboard](<YOUR_MAIN_IMAGE_NAME.jpg>)
 
-### Page 2: Forecasting & Regional Analysis
-![Superstore Forecast Page](<YOUR_FORECAST_IMAGE_NAME.png>)
 
 
 

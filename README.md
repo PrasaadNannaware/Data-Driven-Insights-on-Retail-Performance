@@ -6,11 +6,6 @@ The primary goal is to empower managers to identify top-performing regions, cust
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-
-
-
 
 ---
 
